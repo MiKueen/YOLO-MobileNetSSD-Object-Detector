@@ -15,7 +15,7 @@ Usage
 
 	cd yolo
 
-	# First download the pretrained weights by running the command
+	# To download the pretrained yolov3 weights:
 	wget https://pjreddie.com/media/files/yolov3.weights
 
 	# To read and write back out to video:
